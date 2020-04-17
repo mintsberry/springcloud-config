@@ -1,5 +1,5 @@
 data:
-  env: localhost-prod
+  env: localhost-prod-dev
   user:
-    username: mint-prod
-    password: 781045306-prod
+    username: mint-prod-dev
+    password: 781045306-prod-dev
